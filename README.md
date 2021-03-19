@@ -19,3 +19,9 @@
 <img align ="left" alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align ="left" alt="MySQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align ="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align ="left" alt="Xcode" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align ="left" alt="Netbeans" width="52px" height="52px" src="https://github.com/DAVRUS06/DAVRUS06/blob/main/netbeans.PNG" />
+<img align ="left" alt="Philips Hue" width="86px" height="52px" src="https://github.com/DAVRUS06/DAVRUS06/blob/main/hue.PNG" />
+<img align ="left" alt="Kinect" width="86px" height="52px" src="https://github.com/DAVRUS06/DAVRUS06/blob/main/kinect.PNG" />
+
+
