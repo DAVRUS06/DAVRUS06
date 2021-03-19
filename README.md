@@ -1,9 +1,9 @@
-# Hi, I’m David
+## Hi, I’m David
 - I’m interested in software engineering
 - I’m currently learning everything
 - I'm currently working on building a tool to help me track items at local stores more easily
 
-# Languages
+## Languages
 <img align ="left" alt="C++" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align ="left" alt="C#" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align ="left" alt="Java" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
