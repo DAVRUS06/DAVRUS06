@@ -1,6 +1,6 @@
 ## Hi, I’m David
 - I’m interested in software engineering
-- I’m currently learning everything
+- I’m currently learning everything needed to succeed
 - I'm currently working on building a tool to help me track items at local stores more easily
 
 ## Languages
@@ -24,4 +24,27 @@
 <img align ="left" alt="Philips Hue" width="86px" height="52px" src="https://github.com/DAVRUS06/DAVRUS06/blob/main/hue.PNG" />
 <img align ="left" alt="Kinect" width="86px" height="52px" src="https://github.com/DAVRUS06/DAVRUS06/blob/main/kinect.PNG" />
 
+<br></br>
 
+## Projects
+
+- [Android Hue Light Control](https://github.com/DAVRUS06/Android_Hue_Light_Control)
+  - Philips Hue light and group management
+- [C# Hue Voice and Gesture Controller](https://github.com/DAVRUS06/C-Sharp-Hue-Voice-and-Gesture-Controller)
+  - Philips Hue light and group control
+  - Voice control
+  - Gesture Control
+- [C# Battleship Game](https://github.com/DAVRUS06/C-Sharp-Battleship-Game)
+  - Classic game of Battleship created in C#
+  - 2 players can play over a network
+- [C# Shoulder Expert System](https://github.com/DAVRUS06/C-Sharp-Shoulder-Expert-System)
+  - Expert System created in C#
+  - Converted from a CLIPS expert system
+  - Provides flexibility to switch the topic of the expert system
+- [C# FTP Client](https://github.com/DAVRUS06/C-Sharp-FTP-Client)
+  - FTP Client created in C#
+  - Supports various FTP operations
+- [C# FTP Server](https://github.com/DAVRUS06/C-Sharp-FTP-Server)
+  - FTP Server created in C#
+  - Supports various fTP operations
+  - Shares a user specified folder
